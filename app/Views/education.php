@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>SELAMAT DATANG DI WEBSITE "NURUL LAILI FAJERIANA"</title>
+    <title>SELAMAT DATANG DI WEBSITE NURUL LAILI FAJERIANA</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
@@ -14,7 +14,7 @@
             transition: background-color 300ms ease, color 300ms ease;
         }
         *:focus {
-            background-color: rgba(221, 72, 20, .2);
+            background-color: rgba(200, 50, 10, .1);
             outline: none;
         }
         html, body {
@@ -187,7 +187,7 @@
             }
             header li.menu-item a:hover,
             header li.menu-item a:focus {
-                background-color: rgba(221, 72, 20, .7);
+                background-color: rgba(200, 50, 10, .7);
                 color: rgba(255, 255, 255, .8);
             }
         }
@@ -217,24 +217,51 @@
 
     <div class="heroe">
 
-        <h1>SELAMAT DATANG DI WEBSITE "NURUL LAILI FAJERIANA""</h1>
+        <h1 align="center">My Education</h1>
 
-        <h2>Ini digunakan untuk menunjukan kometensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+		<table border="1" cellspasing="0">
+			<tr bgcolor="#505050" style="color:	white;">
+				<td width="50px" align="center">No</td>
+				<td width="200px" align="center">Tingkat</td>
+				<td width="600px" align="center">Nama Sekolah</td>
+			</tr>
 
+			<tr >
+				<td >1</td>
+				<td >TK</td>
+				<td >TK AL-KAROMAH</td>
+			</tr>
+
+			<tr >
+				<td >2</td>
+				<td >SD</td>
+				<td >SDN SUMBERAGUNG</td>
+			</tr>
+
+			<tr >
+				<td >3</td>
+				<td >SMP</td>
+				<td >SMP Negeri 2 PETERONGAN JOMBANG</td>
+			</tr>
+			
+			<tr >
+				<td >4</td>
+				<td >SMA</td>
+				<td ><a href="https://smagrisa.sch.id/">SMA PGRI 1 JOMBANG</a></td>
+			</tr>
+			
+			<tr >
+				<td >5</td>
+				<td >Kuliah</td>>
+				<td ><a href="https://dac.telkomuniversity.ac.id/"> D3 SISTEM INFORMASI AKUNTANSI- TELKOM UNIVERSITY</a></td>
+			</tr>
+		</table>
     </div>
 
 </header>
 
 <!-- CONTENT -->
 
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-</section>
 
 
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->

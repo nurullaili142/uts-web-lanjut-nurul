@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>SELAMAT DATANG DI WEBSITE "NURUL LAILI FAJERIANA"</title>
+    <title>Selamat datang di website "nurul laili fajeriana"</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
@@ -28,7 +28,7 @@
             text-rendering: optimizeLegibility;
         }
         header {
-            background-color: rgba(247, 248, 249, 1);
+            background-color: rgba(200, 200, 200, 1);
             padding: .4rem 0 0;
         }
         .menu {
@@ -47,7 +47,7 @@
         }
         header li a {
             border-radius: 5px;
-            color: rgba(0, 0, 0, .5);
+            color: rgba(0, 0, 0, .3);
             display: block;
             height: 44px;
             text-decoration: none;
@@ -62,7 +62,7 @@
         }
         header li.menu-item a:hover,
         header li.menu-item a:focus {
-            background-color: rgba(221, 72, 20, .2);
+            background-color: rgba(250, 60, 10, .1);
             color: rgba(221, 72, 20, 1);
         }
         header .logo {
@@ -155,7 +155,7 @@
             text-align: center;
         }
         footer .environment {
-            color: rgba(255, 255, 255, 1);
+            color: #FFFFFF;
             padding: 2rem 1.75rem;
         }
         footer .copyrights {
@@ -217,9 +217,13 @@
 
     <div class="heroe">
 
-        <h1>SELAMAT DATANG DI WEBSITE "NURUL LAILI FAJERIANA""</h1>
+        <h1>About Me</h1>
 
-        <h2>Ini digunakan untuk menunjukan kometensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+        <h2>
+			Nama saya <b>Nurul Laili Fajeriana</b>,  
+                saya tinggal di buah batu
+                saya bekerja di infomedia sebagai finance
+		</h2>
 
     </div>
 
@@ -227,14 +231,6 @@
 
 <!-- CONTENT -->
 
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-</section>
 
 
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->
